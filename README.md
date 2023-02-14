@@ -4,14 +4,8 @@
 
 ## 主题开源地址
 
-- GitHub：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)
-- Gitee：[https://gitee.com/shenweiyan/WebStack-Hugo](https://gitee.com/shenweiyan/WebStack-Hugo)
-
-## 主题演示地址
-
-- [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://hao.bioitee.com](https://hao.bioitee.com)
-- [https://so.gd.cn](https://so.gd.cn)
+- GitHub：lunz567.github.io
+- Gitee：lunz567.github.io
 
 
 ## 特色功能
